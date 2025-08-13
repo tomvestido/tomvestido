@@ -1,4 +1,5 @@
 <h2 align="left">About me</h2>
+<p>I am a software engineer specializing in SCADA systems within the conventional and renewable energy sectors. Over the past several years, I have gained extensive knowledge in user interface design, SCADA/SQL programming, and the search for optimal technical solutions.</p>
 
 ###
 
